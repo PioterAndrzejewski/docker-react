@@ -22,4 +22,4 @@ The pipeline consists of several steps:
 - Docker
 - React Testing Library / Jest
 - Travis
-- AWS
+- AWS / Elastic Beanstalk

@@ -4,14 +4,6 @@
   </p>
 </div>
 
-### Built With
-
-- React
-- Docker
-- React Testing Library / Jest
-- Travis
-- AWS
-
 ## About The Project
 
 This is a very simple app based on create-react-app sample to practice CI/CD pipeline. <br>
@@ -22,3 +14,12 @@ The pipeline consists of several steps:
 - [ ] Merge new feature to master
 - [ ] Travis builds and runs the container to test the app
 - [ ] If all tests are green, it deploys the app to AWS elasticbeanstalk
+
+
+### Built With
+
+- React
+- Docker
+- React Testing Library / Jest
+- Travis
+- AWS

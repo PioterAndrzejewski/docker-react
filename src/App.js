@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and yes yes
         </p>
+        <h2>New feature here</h2>
         <a
           className='App-link'
           href='https://reactjs.org'
